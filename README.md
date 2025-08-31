@@ -113,7 +113,6 @@ lib/
   <img src="assets/screenshots/mode_dark_en.jpg" width="200" alt="Màn hình chọn hiển thị">
   <img src="assets/screenshots/ppc_dark_en.jpg" width="200" alt="Màn hình trợ giúp và hỗ trợ">
   <img src="assets/screenshots/contact_dark_en.jpg" width="200" alt="Màn hình liên hệ">
-  <img src="assets/screenshots/contact_dark_en1.jpg" width="200" alt="Màn hình liên hệ">
   <img src="assets/screenshots/pp_dark_en.jpg" width="200" alt="Màn hình chính sách và bảo mật">
   <img src="assets/screenshots/pp_dark_en1.jpg" width="200" alt="Màn hình chính sách và bảo mật">
 </div>
