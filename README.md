@@ -55,7 +55,10 @@ PogodyCast is a modern, feature-rich weather forecast application built with Flu
 3. **Configure API Keys**
    - Get your OpenWeatherMap API key from [OpenWeatherMap](https://openweathermap.org/api)
    - Configure Firebase Remote Config with your API key
-
+   ```bash
+   flutterfire configure
+   ```
+   
 4. **Run the app**
    ```bash
    flutter run
@@ -169,7 +172,10 @@ PogodyCast là một ứng dụng dự báo thời tiết hiện đại, đầy 
 3. **Cấu hình API Keys**
    - Lấy API key OpenWeatherMap từ [OpenWeatherMap](https://openweathermap.org/api)
    - Cấu hình Firebase Remote Config với API key của bạn
-
+   ```bash
+   flutterfire configure
+   ```
+   
 4. **Chạy ứng dụng**
    ```bash
    flutter run
