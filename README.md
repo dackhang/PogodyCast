@@ -122,6 +122,10 @@ lib/
 We welcome contributions! Please feel free to submit !
 [Privacy policy & Contact](https://dackhang.github.io/privacypolicy_pogodycast_app/)
 
+### Part of the project's UI was inspired by:
+Author: Saad Shaikh
+https://www.figma.com/community/file/1289964365602571637/weather-app
+
 ### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -238,6 +242,10 @@ lib/
 
 Chúng tôi hoan nghênh mọi đóng góp! Hãy tự nhiên submit !
 [Privacy policy & Contact](https://dackhang.github.io/privacypolicy_pogodycast_app/)
+
+### Một phần ý tưởng được lấy cảm hứng từ:
+Tác giả: Saad Shaikh
+https://www.figma.com/community/file/1289964365602571637/weather-app
 
 ### 📄 Giấy phép
 
